@@ -1,6 +1,5 @@
-
 import React from 'react';
-import { File-text } from 'lucide-react';
+import { FileText } from 'lucide-react';
 
 const Certifications = () => {
   const certifications = [
@@ -10,7 +9,7 @@ const Certifications = () => {
       url: "https://www.freecodecamp.org/certification/chitrika/responsive-web-design"
     },
     {
-      title: "GitHub Foundations",
+      title: "GitHub Foundations", 
       issuer: "GitHub",
       url: "https://www.credly.com/users/chitrika-b-s/badges#credly"
     },
@@ -64,7 +63,7 @@ const Certifications = () => {
             <div key={index} className="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 p-6">
               <div className="flex items-start space-x-3 mb-4">
                 <div className="bg-blue-100 p-2 rounded-lg">
-                  <File-text className="text-blue-600" size={20} />
+                  <FileText className="text-blue-600" size={20} />
                 </div>
                 <div className="flex-1">
                   <h3 className="text-lg font-semibold text-slate-800 mb-2">{cert.title}</h3>

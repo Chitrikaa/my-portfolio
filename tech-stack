@@ -1,0 +1,67 @@
+Frontend Framework & Build Tools:
+React (v18.3.1) - JavaScript library for building user interfaces
+TypeScript - Type-safe JavaScript development
+Vite - Fast build tool and development server
+
+Styling & UI:
+Tailwind CSS - Utility-first CSS framework for styling
+shadcn/ui - Pre-built component library built on top of Radix UI
+Radix UI - Headless UI components for accessibility
+Lucide React - Icon library for consistent iconography
+
+State Management & Data Fetching:
+React Query (@tanstack/react-query) - Server state management
+React Hook Form - Form handling and validation
+Zod - Schema validation
+
+Routing & Navigation:
+React Router DOM - Client-side routing
+
+Additional Libraries:
+date-fns - Date utility library
+Recharts - Chart and data visualization library
+Sonner - Toast notifications
+class-variance-authority & clsx - Conditional CSS class utilities
+
+Development Tools:
+ESLint - Code linting
+PostCSS - CSS processing
+Tailwind CSS Animate - Animation utilities
+This tech stack provides a modern, performant, and maintainable foundation for building professional portfolios with excellent user experience and developer experience.
+
+The portfolio is built using the following tech stacks:
+Frontend Framework & Build Tools:
+React (v18.3.1) - JavaScript library for building user interfaces
+TypeScript - Type-safe JavaScript development
+Vite - Fast build tool and development server
+
+Styling & UI:
+Tailwind CSS - Utility-first CSS framework for styling
+shadcn/ui - Pre-built component library built on top of Radix UI
+Radix UI - Headless UI components for accessibility
+Lucide React - Icon library for consistent iconography
+
+State Management & Data Fetching:
+React Query (@tanstack/react-query) - Server state management
+React Hook Form - Form handling and validation
+Zod - Schema validation
+
+Routing & Navigation:
+React Router DOM - Client-side routing
+
+Additional Libraries:
+date-fns - Date utility library
+Recharts - Chart and data visualization library
+Sonner - Toast notifications
+class-variance-authority & clsx - Conditional CSS class utilities
+
+Development Tools:
+ESLint - Code linting
+PostCSS - CSS processing
+Tailwind CSS Animate - Animation utilities
+This tech stack provides a modern, performant, and maintainable foundation for building professional portfolios with excellent user experience and developer experience.
+
+
+
+
+

@@ -46,7 +46,7 @@ const Contact = () => {
 
         <div className="mt-12 pt-8 border-t border-slate-700">
           <p className="text-slate-400">
-            © 2024 Chitrika B S. Built with React and Tailwind CSS.
+            ©  Chitrika B S.
           </p>
         </div>
       </div>

@@ -35,7 +35,7 @@ const Certifications = () => {
     },
     {
       title: "Artificial Intelligence Primer Certification",
-      issuer: "Certification Authority",
+      issuer: "Infosys Springboard",
       url: null
     },
     {

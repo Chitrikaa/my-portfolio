@@ -8,13 +8,13 @@ const Education = () => {
       institution: "KPR Institute of Engineering and Technology",
       period: "2022 - 2026",
       grade: "CGPA: 7.99",
-      type: "Bachelor's Degree"
+      type: "B.Tech - Computer Science and Business Systems"
     },
     {
-      institution: "Vijaya Vidhyala Matric. Hr. Sec. School",
+      institution: "Vijaya Vidhyala Matriculation Higher Secondary School",
       period: "2022",
       grade: "HSC: 88.8%",
-      type: "Higher Secondary"
+      type: "Higher Secondary School"
     }
   ];
 
